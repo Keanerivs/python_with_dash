@@ -1,4 +1,5 @@
 ## Clone the repo
+git clone https://github.com/Keanerivs/python_with_dash
 
 ## Navigate to the project directory
  cd <project directory> 
